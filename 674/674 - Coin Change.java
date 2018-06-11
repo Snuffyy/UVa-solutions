@@ -1,5 +1,3 @@
-package UVA674;
-
 import java.util.Scanner;
 
 public class Main {

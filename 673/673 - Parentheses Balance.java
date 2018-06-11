@@ -1,5 +1,3 @@
-package UVA673;
-
 import java.util.EmptyStackException;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
